@@ -1,0 +1,31 @@
+---
+title: "VAXIMM is advancing VXM01 in several clinical trials targeting different important cancer indications"
+title-block-banner: "./img/back3.jpg"
+---
+
+## VXM01
+
+VXM01 is an oral T-cell immunotherapy that is designed to activate T-cells to attack the tumor vasculature and, in several tumor types, attack cancer cells directly. VXM01 carries the vascular endothelial growth factor receptor-2 (VEGFR2), which is highly overexpressed on the tumor vasculature and on certain cancer cells as the target gene. The active, T-cell-mediated destruction of tumor vasculature cells leads to an increased infiltration of various immune cells into tumor tissue (inflammation). In preclinical studies, a murine analog VXM01 vaccine showed broad anti-tumor activity in different tumor types. This activity was linked to a VEGFR2-specific T-cell response and was accompanied by the destruction of the tumor vasculature and increased immune cell infiltration.
+
+### Phase I trial in advanced pancreatic cancer
+
+A Phase I trial in advanced pancreatic cancer showed that VXM01 was well tolerated and led to the activation of VEGFR2-specific cytotoxic T-cells, which was associated with significantly improved patient survival [@niethammer_double-blind_2012; @schmitz-winnenthal_anti-angiogenic_2015; @schmitz-winnenthal_phase_2018].
+
+### Phase I trial in glioblastoma
+
+A Phase I trial was designed to evaluate the safety and tolerability of VXM01, as well as clinical and immunogenic response, in patients with recurrent glioblastoma. Fourteen patients were treated with VXM01, including three who were also treated with the anti-PD-1 checkpoint inhibitor, nivolumab. Of the fourteen patients treated, one patient experienced an objective response with VXM01 monotherapy and a durable response with the addition of nivolumab. During the observation period of up to 20 months, seven patients were still alive, all of them living for more than one year.
+
+### Phase I/II trial in glioblastoma + avelumab
+
+A Phase I/II trial evaluating VXM01 in combination with avelumab, a human anti-PD-L1 antibody, for the treatment of glioblastoma has been completed. The trial is part of a collaboration agreement with Merck KGaA, Darmstadt, Germany and Pfizer Inc.
+
+VXM01 has received orphan designation from the European Commission and from the US Food and Drug Administration (FDA) for the treatment of glioblastoma.
+
+## VXM04 (preclinical)
+
+VXM04 carries human mesothelin as the target antigen. Mesothelin is a protein that is overexpressed in several solid tumors, including mesothelioma, ovarian cancer and pancreatic adenocarcinoma. In preclinical studies, VXM04 has shown potent T-cell activation against mesothelin and stand-alone therapeutic activity in models of pancreatic cancer.
+
+## VXM06 (preclinical)
+
+VXM06 carries a modified Wilms Tumor Protein (WT1) as the target antigen. WT1 is overexpressed in several hematological malignancies and solid tumors, including acute leukemias, glioblastoma, colon cancer, pancreatic adenocarcinoma, and ovarian cancer. In preclinical studies, VXM06 has shown potent T-cell activation against WT1 and stand-alone therapeutic activity in models of leukemia. The safety profile of VXM06 has been demonstrated in a 3-month toxicity study in animals.
+

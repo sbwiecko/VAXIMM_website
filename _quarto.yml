@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _output
+  preview:
+    port: 8000
+
+bibliography: vaximm.bib
+
+website:
+  navbar:
+    background: dark
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Technology"
+        href: technology.qmd
+      - text: "Pipeline"
+        href: pipeline.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "Contact"
+        href: contact.qmd
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Information** - This is a rudimentary draft version of the new VAXIMM website"
+    type: primary
+    position: below-navbar
+
+format:
+  html:
+    theme: lux
+

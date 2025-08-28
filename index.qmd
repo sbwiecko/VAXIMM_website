@@ -1,0 +1,106 @@
+---
+title: "Reinventing immunotherapy"
+description: "VAXIMM is pioneering the development of novel oral T-cell immunotherapies, creating first-in-class treatments for a range of conditions, including cancer and autoimmune diseases."
+title-block-banner: "./img/back0.jpg"
+---
+
+## Empowering patient's immune response
+
+VAXIMM is pioneering **first-in-class oral immunotherapies** using a live attenuated bacterial platform (Ty21a) with a decades-long record of safety.
+
+Our technology efficiently delivers antigens to the gut's immune system, providing a powerful and convenient method for generating **robust T cell responses**. The platform's **high modularity and low production cost** enable rapid development timelines. Our mission is to engineer safe and potent oral immunotherapies that activate the immune system to identify and destroy malignant cells.
+
+**Clinical and pre-clinical data** confirm our platform's ability to induce strong, specific T-cell activation with excellent tolerability, making it suitable for continuous dosing and combination therapies.
+
+::: {.text-center .mt-4}
+[Learn more about us](about.qmd){.btn .btn-outline-primary}
+:::
+
+## Oral Delivery & Unique Mode of Action
+
+After oral ingestion, our modified Ty21a bacteria, which contain the genetic code for desired cancer targets, pass the stomach and invade the patient's Peyer's patches in the small intestine. This delivery method targets the lymphatic tissue of the gut, the most immunocompetent organ in the body.
+
+::: {layout-ncol=2}
+![Salmonella live attenuated carrier](./img/salmonella-typhi.png)
+
+![DNA plasmid construct](./img/plasmid_6714638.png)
+:::
+
+Once inside these lymphoid tissues, the bacteria are taken up by macrophages, leading to the strong expression of the cancer antigen and subsequently a specific and powerful cellular immune response. This process generates CD4+ and CD8+ T-cells that are primed to seek out and destroy cells expressing the target antigen.
+
+::: {.text-center .mt-4}
+[Learn more about VAXIMM technology](technology.qmd){.btn .btn-outline-primary}
+:::
+
+## Pipeline
+
+Our lead clinical candidate, **VXM01**, is an oral T-cell immunotherapy that has been evaluated in multiple oncology indications. The clinical program for VXM01 includes a Phase I trial in **pancreatic cancer**, a Phase I trial in **glioblastoma**, and a Phase I/II combination trial with the checkpoint inhibitor avelumab in **glioblastoma**.
+
+```{=html}
+<div class="container py-5">
+        <div class="text-center mb-4">
+        <h3 class="mb-0">Our Clinical Progress</h3>
+    </div>
+    <div class="p-4"> 
+        <div class="mb-4">
+            <p class="fw-bold text-start mb-2">VXM01 - Pancreatic Cancer</p>
+            <div class="progress" role="progressbar" aria-label="Phase I progress" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
+                <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">
+                    Phase I
+                </div>
+            </div>
+        </div>
+        <div class="mb-4">
+            <p class="fw-bold text-start mb-2">VXM01 - Glioblastoma</p>
+            <div class="progress" role="progressbar" aria-label="Phase I progress" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
+                <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">
+                    Phase I
+                </div>
+            </div>
+        </div>
+        <div class="mb-4">
+            <p class="fw-bold text-start mb-2">VXM01 - Glioblastoma + Avelumab</p>
+            <div class="progress" role="progressbar" aria-label="Phase I/II progress" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
+                <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 50%;">
+                    Phase I/II
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+::: {.text-center .mt-4}
+[Learn more about our pipeline](pipeline.qmd){.btn .btn-outline-primary}
+:::
+
+## Latest news
+
+Stay informed with our most recent press releases, publications, and the progress of our clinical programs.
+
+```{=html}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-8 col-lg-6 mx-auto"> <div class="card h-100 shadow-sm">
+                <div class="card-body d-flex flex-column">
+                    <p class="text-body-secondary mb-2">March 26, 2025</p>
+                    <h5 class="card-title">
+                        <a href="#" class="text-dark text-decoration-none">
+                            Vaximm AG, an OSR Company, Announces Results from Phase 2a Trial of VXM01 and Avelumab Combination Therapy in Glioblastoma
+                        </a>
+                    </h5>
+                    <p class="card-text text-muted mt-3">
+                        Results from Phase 2a Trial demonstrate a good safety and tolerability profile of VXM01 and Avelumab Combination Therapy in Glioblastoma, supporting further investigation of VXM01...
+                    </p>
+                    <div class="mt-auto"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+```
+
+::: {.text-center .mt-4}
+[News](news.qmd){.btn .btn-outline-primary}
+:::

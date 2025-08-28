@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="675"
+   height="550"
+   viewBox="0 0 675.00001 550"
+   style="font-family:Inter, sans-serif"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="competitive_analysis.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="competitive_analysis.png"
+   inkscape:export-xdpi="3000"
+   inkscape:export-ydpi="3000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs51" />
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4981"
+     inkscape:cx="405.51365"
+     inkscape:cy="283.69268"
+     inkscape:window-width="1715"
+     inkscape:window-height="1217"
+     inkscape:window-x="228"
+     inkscape:window-y="49"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg51" />
+  <polygon
+     points="315.0365,231.11754 350,214.28 384.9635,231.11754 393.59878,268.95114 369.40328,299.29133 330.59672,299.29133 306.40122,268.95114 "
+     fill="none"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="polygon1"
+     transform="translate(-27.022171,-14.496007)" />
+  <polygon
+     points="280.07299,203.23507 350,169.56 419.92701,203.23507 437.19755,278.90227 388.80656,339.58266 311.19344,339.58266 262.80245,278.90227 "
+     fill="none"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="polygon2"
+     transform="translate(-27.022171,-14.496007)" />
+  <polygon
+     points="245.10949,175.35261 350,124.84 454.89051,175.35261 480.79633,288.85341 408.20984,379.87398 291.79016,379.87398 219.20367,288.85341 "
+     fill="none"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="polygon3"
+     transform="translate(-27.022171,-14.496007)" />
+  <polygon
+     points="210.14598,147.47014 350,80.12 489.85402,147.47014 524.3951,298.80454 427.61312,420.16531 272.38688,420.16531 175.6049,298.80454 "
+     fill="none"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="polygon4"
+     transform="translate(-27.022171,-14.496007)" />
+  <polygon
+     points="175.18248,119.58768 350,35.4 524.81752,119.58768 567.99388,308.75568 447.0164,460.45664 252.9836,460.45664 132.00612,308.75568 "
+     fill="none"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="polygon5"
+     transform="translate(-27.022171,-14.496007)" />
+  <line
+     x1="322.97784"
+     y1="244.504"
+     x2="322.97784"
+     y2="20.903996"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="line5" />
+  <line
+     x1="322.97784"
+     y1="244.504"
+     x2="497.79535"
+     y2="105.09167"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="line6" />
+  <line
+     x1="322.97784"
+     y1="244.504"
+     x2="540.97174"
+     y2="294.25967"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="line7" />
+  <line
+     x1="322.97784"
+     y1="244.504"
+     x2="419.99426"
+     y2="445.96063"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="line8" />
+  <line
+     x1="322.97784"
+     y1="244.504"
+     x2="225.96143"
+     y2="445.96063"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="line9" />
+  <line
+     x1="322.97784"
+     y1="244.504"
+     x2="104.98395"
+     y2="294.25967"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="line10" />
+  <line
+     x1="322.97784"
+     y1="244.504"
+     x2="148.16031"
+     y2="105.09167"
+     stroke="#000000"
+     stroke-opacity="0.1"
+     stroke-width="1"
+     id="line11" />
+  <text
+     x="322.97784"
+     y="9.9039927"
+     text-anchor="middle"
+     dominant-baseline="middle"
+     id="text41"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#343a40">Defined antigen</text>
+  <text
+     x="509.52283"
+     y="95.739326"
+     text-anchor="start"
+     dominant-baseline="middle"
+     id="text42"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#343a40">Oral delivery</text>
+  <text
+     x="549.59564"
+     y="297.5975"
+     text-anchor="start"
+     dominant-baseline="middle"
+     id="text43"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#343a40">Inherent adjuvant</text>
+  <text
+     x="426.5025"
+     y="459.47516"
+     text-anchor="start"
+     dominant-baseline="middle"
+     id="text44"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#343a40">Scalable manufacturing</text>
+  <text
+     x="219.45317"
+     y="459.47516"
+     text-anchor="end"
+     dominant-baseline="middle"
+     id="text45"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#343a40">High stability</text>
+  <text
+     x="98.360031"
+     y="297.5975"
+     text-anchor="end"
+     dominant-baseline="middle"
+     id="text46"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#343a40">Repeat dosing</text>
+  <text
+     x="136.43283"
+     y="95.739326"
+     text-anchor="end"
+     dominant-baseline="middle"
+     id="text47"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#343a40">Safety profile</text>
+  <rect
+     x="61.319771"
+     y="530.29407"
+     width="14"
+     height="14"
+     fill="#023e8a"
+     fill-opacity="0.2"
+     id="rect47"
+     style="font-size:12px;fill:#023e8a;fill-opacity:1" />
+  <text
+     x="80.319771"
+     y="537.69006"
+     dominant-baseline="middle"
+     id="text48"
+     style="font-size:12px;fill:#343a40"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan1">VAXIMM (oral DNA)</tspan></text>
+  <rect
+     x="211.85298"
+     y="530.29407"
+     width="14"
+     height="14"
+     fill="#0077b6"
+     fill-opacity="0.2"
+     id="rect48"
+     style="font-size:12px;fill:#0077b6;fill-opacity:1" />
+  <text
+     x="230.85298"
+     y="537.19806"
+     dominant-baseline="middle"
+     id="text49"
+     style="font-size:12px;fill:#343a40"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan2">complex biologic (cell lysate)</tspan></text>
+  <rect
+     x="413.30023"
+     y="530.29407"
+     width="14"
+     height="14"
+     fill="#00b4d8"
+     fill-opacity="0.2"
+     id="rect49"
+     style="font-size:12px;fill:#00b4d8;fill-opacity:1" />
+  <text
+     x="432.30023"
+     y="538.38007"
+     dominant-baseline="middle"
+     id="text50"
+     style="font-size:12px;fill:#343a40"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan3">mRNA-LNP</tspan></text>
+  <rect
+     x="516.46039"
+     y="530.29407"
+     width="14"
+     height="14"
+     fill="#90e0ef"
+     fill-opacity="0.2"
+     id="rect50"
+     style="font-size:12px;fill:#90e0ef;fill-opacity:1" />
+  <text
+     x="535.46039"
+     y="538.57806"
+     dominant-baseline="middle"
+     id="text51"
+     style="font-size:12px;fill:#343a40"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+       id="tspan4">Viral vector</tspan></text>
+  <polygon
+     points="175.18248,119.58768 350,35.4 524.81752,119.58768 567.99388,308.75568 447.0164,460.45664 252.9836,460.45664 132.00612,308.75568 "
+     fill="#023e8a"
+     fill-opacity="0.2"
+     stroke="#023e8a"
+     stroke-opacity="1"
+     stroke-width="3"
+     id="polygon11"
+     style="fill:#5a6f8a;fill-opacity:0.2"
+     transform="translate(-27.022171,-14.496007)" />
+  <polygon
+     points="245.10949,175.35261 350,35.4 419.92701,203.23507 480.79633,288.85341 408.20984,379.87398 330.59672,299.29133 132.00612,308.75568 "
+     fill="#00b4d8"
+     fill-opacity="0.2"
+     stroke="#00b4d8"
+     stroke-opacity="1"
+     stroke-width="3"
+     id="polygon13"
+     transform="translate(-27.022171,-14.496007)" />
+  <polygon
+     points="210.14598,147.47014 350,214.28 419.92701,203.23507 524.3951,298.80454 388.80656,339.58266 291.79016,379.87398 132.00612,308.75568 "
+     fill="#0077b6"
+     fill-opacity="0.2"
+     stroke="#0077b6"
+     stroke-opacity="1"
+     stroke-width="3"
+     id="polygon12"
+     transform="translate(-27.022171,-14.496007)" />
+  <polygon
+     points="280.07299,203.23507 350,80.12 419.92701,203.23507 524.3951,298.80454 388.80656,339.58266 291.79016,379.87398 306.40122,268.95114 "
+     fill="#90e0ef"
+     fill-opacity="0.2"
+     stroke="#90e0ef"
+     stroke-opacity="1"
+     stroke-width="3"
+     id="polygon14"
+     transform="translate(-27.022171,-14.496007)" />
+  <circle
+     cx="322.97784"
+     cy="20.903996"
+     r="3"
+     fill="#023e8a"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle14" />
+  <circle
+     cx="497.79535"
+     cy="105.09167"
+     r="3"
+     fill="#023e8a"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle15"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="540.97174"
+     cy="294.25967"
+     r="3"
+     fill="#023e8a"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle16"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="419.99426"
+     cy="445.96063"
+     r="3"
+     fill="#023e8a"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle17"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="225.96143"
+     cy="445.96063"
+     r="3"
+     fill="#023e8a"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle18"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="104.98395"
+     cy="294.25967"
+     r="3"
+     fill="#023e8a"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle19" />
+  <circle
+     cx="148.16031"
+     cy="105.09167"
+     r="3"
+     fill="#023e8a"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle20"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="322.97784"
+     cy="199.784"
+     r="3"
+     fill="#0077b6"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle21"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="392.90485"
+     cy="188.73907"
+     r="3"
+     fill="#0077b6"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle22" />
+  <circle
+     cx="497.37292"
+     cy="284.30853"
+     r="3"
+     fill="#0077b6"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle23" />
+  <circle
+     cx="361.78436"
+     cy="325.08664"
+     r="3"
+     fill="#0077b6"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle24" />
+  <circle
+     cx="264.76801"
+     cy="365.37799"
+     r="3"
+     fill="#0077b6"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle25" />
+  <circle
+     cx="104.98395"
+     cy="294.25967"
+     r="3"
+     fill="#0077b6"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle26" />
+  <circle
+     cx="183.12381"
+     cy="132.97414"
+     r="3"
+     fill="#0077b6"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle27"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="322.97784"
+     cy="20.903996"
+     r="3"
+     fill="#00b4d8"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle28"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="392.90485"
+     cy="188.73907"
+     r="3"
+     fill="#00b4d8"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle29" />
+  <circle
+     cx="453.77417"
+     cy="274.35739"
+     r="3"
+     fill="#00b4d8"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle30"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="381.18768"
+     cy="365.37799"
+     r="3"
+     fill="#00b4d8"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle31"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="303.57452"
+     cy="284.79532"
+     r="3"
+     fill="#00b4d8"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle32"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="104.98395"
+     cy="294.25967"
+     r="3"
+     fill="#00b4d8"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle33"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="218.08731"
+     cy="160.85661"
+     r="3"
+     fill="#00b4d8"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle34"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="322.97784"
+     cy="65.623993"
+     r="3"
+     fill="#90e0ef"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle35"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="392.90485"
+     cy="188.73907"
+     r="3"
+     fill="#90e0ef"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle36"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="497.37292"
+     cy="284.30853"
+     r="3"
+     fill="#90e0ef"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle37"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="361.78436"
+     cy="325.08664"
+     r="3"
+     fill="#90e0ef"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle38"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="264.76801"
+     cy="365.37799"
+     r="3"
+     fill="#90e0ef"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle39"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="279.37903"
+     cy="254.45514"
+     r="3"
+     fill="#90e0ef"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle40"
+     style="stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="253.05083"
+     cy="188.73907"
+     r="3"
+     fill="#90e0ef"
+     fill-opacity="1"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-width="1.5"
+     id="circle41"
+     style="stroke-width:1;stroke-dasharray:none" />
+</svg>

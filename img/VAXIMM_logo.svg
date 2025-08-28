@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.674713mm"
+   height="12.052703mm"
+   viewBox="0 0 74.674712 12.052703"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="VAXIMM_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.4099"
+     inkscape:cx="140.36599"
+     inkscape:cy="-16.893807"
+     inkscape:window-width="1692"
+     inkscape:window-height="1128"
+     inkscape:window-x="152"
+     inkscape:window-y="152"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.2003469,-106.28785)">
+    <g
+       id="text10-7"
+       style="font-size:19.0169px;line-height:125%;font-family:'ITC Legacy Sans Std Book';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       aria-label="VA XIMM">
+      <path
+         d="m 6.2003469,106.28785 h 2.9249626 l 3.4263845,9.25774 3.807094,-9.25774 h 2.358541 l -5.729212,12.0527 h -1.884976 z m 16.6955001,0 h 1.949975 l 4.967794,12.0527 h -2.906391 l -1.337126,-3.59352 h -4.670655 l -1.448552,3.59352 h -2.321399 z m -1.41141,7.0292 h 3.537812 l -1.689979,-4.55923 z m 10.111966,-7.0292 h 3.008533 l 2.739251,4.2528 2.980676,-4.2528 h 2.590681 l -4.568513,5.64564 4.587084,6.40706 h -3.212816 l -2.952819,-4.69851 -3.249958,4.69851 h -2.581396 l 4.847081,-6.10063 z"
+         id="path7" />
+      <path
+         style="fill:#28aadc"
+         d="m 44.243386,106.28785 h 2.637109 v 12.0527 h -2.637109 z"
+         id="path8" />
+      <path
+         style="fill:#28aadc"
+         d="m 50.13045,106.28785 h 2.377113 l 4.187803,8.66346 4.429229,-8.66346 h 2.414255 l 0.436423,12.0527 H 61.43102 l -0.287854,-8.52417 -4.336373,8.25489 -1.216413,0.195 -4.197089,-8.78417 -0.139284,8.85845 h -1.940689 z"
+         id="path9" />
+      <path
+         style="fill:#28aadc"
+         d="m 67.030234,106.28785 h 2.377113 l 4.187803,8.66346 4.429229,-8.66346 h 2.414255 l 0.436423,12.0527 h -2.544253 l -0.287854,-8.52417 -4.336373,8.25489 -1.216413,0.195 -4.197089,-8.78417 -0.139284,8.85845 h -1.940689 z"
+         id="path10" />
+    </g>
+  </g>
+</svg>

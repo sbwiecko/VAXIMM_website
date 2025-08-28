@@ -1,0 +1,116 @@
+---
+title: "Next-generation immunotherapies"
+title-block-banner: "./img/back1.jpg"
+---
+
+## Our history
+
+The foundational technology of VAXIMM was developed by Dr. Andreas Niethammer during his tenure at the University of California San Diego (UCSD) in La Jolla. As the inventor of the oral T-cell immunotherapy platform, Dr. Niethammer's vision was to create a safe, convenient, and potent treatment to fight cancer. Today, as VAXIMM's Chief Medical Officer, he continues to lead the company's clinical development, guiding his innovative research from the laboratory to patients in need.
+
+### From Academic Innovation to a Clinical-Stage Oral Immunotherapy Platform
+
+VAXIMM was founded to advance this novel platform, which is based on a live, attenuated, and safe oral bacterial vaccine strain. This vector is uniquely modified to stimulate a patient's own cytotoxic T-cells to target specific structures within tumors.
+
+Our lead product candidate, **VXM01**, activates killer T-cells that target the tumor's specific vasculature, thereby increasing immune cell infiltration in solid tumors. The program has been successfully evaluated in multiple clinical trials, including for challenging indications like brain cancer. VAXIMM's progress is validated by key scientific and corporate collaborations, including a completed clinical trial of VXM01 with the checkpoint inhibitor avelumab in partnership with Merck KGaA, Darmstadt, Germany, and a major licensing agreement with China Medical System Holdings (CMS) for development and commercialization rights in Asia.
+
+In November 2022, VAXIMM was acquired by BCM Europe AG, becoming a key part of the **OSR Holdings AG group**. This strategic acquisition is accelerating the development of our promising pipeline, building on a decade of scientific excellence to deliver next-generation oral immunotherapies to patients.
+
+## Executive Team
+
+```{=html}
+<style>
+    /* Optional: Custom styles for a cleaner look */
+    .team-card .card-img-top {
+        /* **Adjust these values to make the photo smaller** */
+        width: 100px; /* Changed from 150px */
+        height: 100px; /* Changed from 150px */
+        object-fit: cover;
+        margin: 1.5rem auto 0 auto; /* Center image and add space */
+    }
+    .team-card .card-title {
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 1.1rem;
+    }
+    .team-card .card-subtitle {
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        letter-spacing: 1px;
+    }
+</style>
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="card text-center border-0 shadow-sm team-card h-100">
+                <img src="https://cdn.theorg.com/48250e5d-580b-4e1c-926e-7c31a1178ef5_thumb.jpg" class="card-img-top rounded-circle" alt="Dr. Andreas Niethammer">
+                <div class="card-body">
+                    <h5 class="card-title mt-3">Andreas Niethammer | MD, PhD</h5>
+                    <h6 class="card-subtitle mb-3 text-muted">Chief Medical Officer</h6>
+                    <p class="card-text">
+                        As the inventor of VAXIMM's core technology platform at UCSD, Dr. Niethammer provides foundational scientific leadership. He has extensive experience in clinical oncology and immunology and is responsible for guiding the company's clinical development strategy and execution.
+                    </p>
+                </div>
+                <div class="card-footer bg-transparent border-0 pb-3">
+                    <a href="https://www.linkedin.com/in/andreas-niethammer-md-phd-4a086323/" class="text-secondary mx-2">
+                        <i class="bi bi-linkedin fs-4"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+## Senior Leadership
+
+<!-- ```{=html}
+<style>
+    /* Optional: Custom styles for a cleaner look */
+    .team-card .card-img-top {
+        /* **Adjust these values to make the photo smaller** */
+        width: 100px; /* Changed from 150px */
+        height: 100px; /* Changed from 150px */
+        object-fit: cover;
+        margin: 1.5rem auto 0 auto; /* Center image and add space */
+    }
+    .team-card .card-title {
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 1.1rem;
+    }
+    .team-card .card-subtitle {
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        letter-spacing: 1px;
+    }
+</style>
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="card text-center border-0 shadow-sm team-card h-100">
+                <img src="https://secondscight.com/static/images/profile-pic.png" class="card-img-top rounded-circle" alt="Sébastien Wieckowski">
+                <div class="card-body">
+                    <h5 class="card-title mt-3">Sébastien Wieckowski | PhD</h5>
+                    <h6 class="card-subtitle mb-3 text-muted">Senior Director Platform Optimization and Nonclinical Development (Consultant)</h6>
+                    <p class="card-text">
+                        Sébastien has 15 years experience in oncoimmunology and vaccine development. He joined VAXIMM in 2016 as Senior Scientist, where he was in charge of the preclinical development of the various assets. He notably developed the VAXIMM neoantigen platform, which was subsequently acquired by NEC.
+                    </p>
+                </div>
+                <div class="card-footer bg-transparent border-0 pb-3">
+                    <a href="https://linkedin.com/in/sbwiecko" class="text-secondary mx-2">
+                        <i class="bi bi-linkedin fs-4"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+``` -->
+
+...
+
+## Board of Directors
+
+...
