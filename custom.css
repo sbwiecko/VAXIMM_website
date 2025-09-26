@@ -1,0 +1,9 @@
+h3 {
+  font-size: 1.2rem;  /* Or another value like 20px */
+  text-transform: none;
+  color: steelblue;
+}
+
+h5 {
+    text-transform: none;
+}

@@ -1,16 +1,24 @@
 ---
-title: "Redefining Immunotherapy: Oral, Powerful, and Precise"
+title: "Redefining Immunotherapy -- Oral, Powerful, and Precise"
 description: "VAXIMM is pioneering a new class of orally administered, T-cell based immunotherapies. Our platform is engineered to deliver strong and specific efficacy with an exceptional safety profile, targeting a vast array of validated and novel drug targets in oncology, infectious diseases, and beyond."
 title-block-banner: "./img/back0.jpg"
 ---
 
 ## A Paradigm Shift in Treatment 
 
-Our approach combines the convenience of oral administration with the power of a targeted T-cell response, creating a therapy with clear advantages for patients and healthcare systems:
+Our approach combines the convenience of oral administration with the power of a targeted T-cell response, creating a therapy with clear advantages for patients and healthcare systems.
 
-- **Potent & Lasting Efficacy**: our technology is inherently **self-adjuvanting**, generating robust and highly specific T-cell responses designed for the **durable elimination of target cells**. By harnessing the patient's own immune system, we create a long-lasting therapeutic effect with a **low risk of resistance** development.
-- **Outstanding Safety & Precision**: clinical data from **multiple Phase I and II studies**, including in fragile cancer patient populations, have demonstrated that VAXIMM therapies are exceptionally well-tolerated. The T-cell-based mechanism ensures **minimal to no collateral damage to healthy tissue**.
-- **Unprecedented Patient Convenience**: an oral formulation replaces complex infusions, dramatically improving **patient compliance and quality of life** while **reducing treatment-associated costs** for the healthcare system.
+### Potent and Lasting Efficacy
+
+Our technology is inherently **self-adjuvanting**, generating robust and highly specific T-cell responses designed for the **durable elimination of target cells**. By harnessing the patient's own immune system, we create a long-lasting therapeutic effect with a **low risk of resistance** development.
+
+### Outstanding Safety and Precision
+
+Clinical data from **multiple Phase I and II studies**, including in fragile cancer patient populations, have demonstrated that VAXIMM therapies are exceptionally well-tolerated. The T-cell-based mechanism ensures **minimal to no collateral damage to healthy tissue**.
+
+### Unprecedented Patient Convenience
+
+An oral formulation replaces complex infusions, dramatically improving **patient compliance and quality of life** while **reducing treatment-associated costs** for the healthcare system.
 
 ::: {.text-center .mt-4}
 [Learn more about us](about.qmd){.btn .btn-outline-primary}

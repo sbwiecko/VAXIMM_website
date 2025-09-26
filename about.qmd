@@ -64,7 +64,7 @@ In November 2022, VAXIMM was acquired by BCM Europe AG, to become a key subsidia
 
 ## Senior Leadership
 
-<!-- ```{=html}
+```{=html}
 <style>
     /* Optional: Custom styles for a cleaner look */
     .team-card .card-img-top {
@@ -93,7 +93,7 @@ In November 2022, VAXIMM was acquired by BCM Europe AG, to become a key subsidia
                 <img src="https://secondscight.com/static/images/profile-pic.png" class="card-img-top rounded-circle" alt="Sébastien Wieckowski">
                 <div class="card-body">
                     <h5 class="card-title mt-3">Sébastien Wieckowski | PhD</h5>
-                    <h6 class="card-subtitle mb-3 text-muted">Senior Director Platform Optimization and Nonclinical Development (Consultant)</h6>
+                    <h6 class="card-subtitle mb-3 text-muted">Senior Director Platform Optimization and Nonclinical Development</h6>
                     <p class="card-text">
                         Sébastien has 15 years experience in oncoimmunology and vaccine development. He joined VAXIMM in 2016 as Senior Scientist, where he was in charge of the preclinical development of the various assets. He notably developed the VAXIMM neoantigen platform, which was subsequently acquired by NEC.
                     </p>
@@ -107,7 +107,7 @@ In November 2022, VAXIMM was acquired by BCM Europe AG, to become a key subsidia
         </div>
     </div>
 </div>
-``` -->
+```
 
 ...
 
