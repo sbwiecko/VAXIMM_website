@@ -32,4 +32,4 @@ This oral bacterial technology enables several key advantages:
 
 How does VAXIMM stack up? We combine the best attributes of modern vaccine technologies while mitigating their key weaknesses. This chart compares our platform against major alternatives across critical therapeutic and logistical features.
 
-![The competitive edge](./img/competitive_analysis.png)
+![The competitive edge](./img/competitive_analysis.png){width=50%}

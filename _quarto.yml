@@ -32,6 +32,6 @@ website:
 
 format:
   html:
-    theme: sandstone
-    # css: custom.css
-
+    theme: flatly
+    css: custom.css
+    js: animations.js
