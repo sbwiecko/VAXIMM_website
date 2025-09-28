@@ -34,3 +34,6 @@ format:
   html:
     theme: flatly
     css: custom.css
+    include-in-header:
+      - text: |
+          <script src="animations.js" defer></script>
