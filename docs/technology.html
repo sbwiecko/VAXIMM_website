@@ -61,6 +61,9 @@ div.csl-indent {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -179,13 +182,13 @@ background-size: cover;
 
 
 <p>VAXIMM’s technology is based on first-in-class oral T-cell activators that can be readily adapted to target a wide range of antigens.</p>
-<p>The platform is based on the live attenuated bacterial vaccine strain Ty21 (Vivotif™), which has been administered to millions of people as a prophylactic vaccine to temporarily protect them from typhoid fever. This strain has been proven to be very safe and well tolerated. All immunotherapies resulting from this platform are taken orally by the patient. <span class="citation" data-cites="niethammer_oral_2001 niethammer_dna_2002">(<a href="#ref-niethammer_oral_2001" role="doc-biblioref">Andreas G. Niethammer et al. 2001</a>; <a href="#ref-niethammer_dna_2002" role="doc-biblioref">Andreas G. Niethammer et al. 2002</a>)</span></p>
+<p>The platform is based on the live attenuated bacterial vaccine strain Ty21 (Vivotif™), which has been administered to millions of people as a prophylactic vaccine to temporarily protect them from typhoid fever. This strain has been proven to be very safe and well tolerated. All immunotherapies resulting from this platform are taken orally by the patient <span class="citation" data-cites="niethammer_oral_2001 niethammer_dna_2002">(<a href="#ref-niethammer_oral_2001" role="doc-biblioref">Andreas G. Niethammer et al. 2001</a>; <a href="#ref-niethammer_dna_2002" role="doc-biblioref">Andreas G. Niethammer et al. 2002</a>)</span>.</p>
 <section id="unique-mechanism-of-action" class="level2">
 <h2 class="anchored" data-anchor-id="unique-mechanism-of-action">Unique Mechanism of Action</h2>
 <p>After oral ingestion, the modified Ty21a bacteria, which contain the cDNA of the desired cancer target(s), pass the stomach and invade the patient’s Peyer’s patches located in the small intestine. Uptake of the bacteria in macrophages, the eating cells present in these lymphoid tissues, leads to strong expression of and subsequently to a specific cellular immune response towards the encoded cancer antigen(s). These so-called “killer” T-cells then destroy the respective antigen expressing tumor or tumor stroma cells.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="./img/VAXIMM_platform_MoA.png" class="img-fluid figure-img"></p>
+<p><a href="./img/VAXIMM_platform_MoA.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="VAXIMM oral T-cell immunotherapy"><img src="./img/VAXIMM_platform_MoA.png" class="img-fluid figure-img" alt="VAXIMM oral T-cell immunotherapy"></a></p>
 <figcaption>VAXIMM oral T-cell immunotherapy</figcaption>
 </figure>
 </div>
@@ -626,6 +629,38 @@ Niethammer, Andreas G., Rong Xiang, Jürgen C. Becker, Harald Wodrich, Ursula Pe
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

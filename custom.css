@@ -1,28 +1,10 @@
-h3 {
-  font-size: 1.2rem;  /* Or another value like 20px */
-  text-transform: none;
-  /* color: steelblue; */
-}
-
-h5 {
-    text-transform: none;
-}
-
-
-#title-block-header h1.title {
-  color: white; /* Or your desired color */
-}
-
-/* Corrected selector for the description text */
-#title-block-header .description {
-  color: #EAEAEA; /* A light grey/off-white */
-}
-
-#title-block-header .word {
+/* Make sure the word wrappers display correctly */
+#title-block-header h1.title .word {
   display: inline-block;
 }
 
-#title-block-header .word span {
+/* Target the letter spans inside the title for the animation */
+#title-block-header h1.title .word span {
   display: inline-block;
   opacity: 0;
   transform: translateY(20px);
@@ -34,4 +16,17 @@ h5 {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* The initial "hidden" state for sections */
+main section.level2 {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+/* The final "visible" state */
+main section.level2.is-visible {
+  opacity: 1;
+  transform: translateY(0);
 }

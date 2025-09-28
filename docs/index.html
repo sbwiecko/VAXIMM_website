@@ -164,6 +164,51 @@ background-size: cover;
 
 
 
+<script>
+// --- Title Animation ---
+window.addEventListener('load', function () {
+  const headline = document.querySelector('#title-block-header h1.title');
+  if (!headline || headline.querySelector('.word')) { return; }
+  const text = headline.textContent;
+  headline.innerHTML = ''; 
+  let charIndex = 0;
+  text.split(' ').forEach(word => {
+    const wordWrapper = document.createElement('span');
+    wordWrapper.className = 'word';
+    word.split('').forEach(char => {
+      const span = document.createElement('span');
+      span.textContent = char;
+      span.style.animationDelay = `${charIndex * 50}ms`;
+      wordWrapper.appendChild(span);
+      charIndex++;
+    });
+    headline.appendChild(wordWrapper);
+    headline.appendChild(document.createTextNode(' '));
+    charIndex++;
+  });
+});
+
+// --- Fade-In on Scroll Animation ---
+document.addEventListener('DOMContentLoaded', function() {
+  // CORRECTED: Target 'main section.level2' instead of 'main > .section'
+  const sections = document.querySelectorAll('main section.level2');
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('is-visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {
+    threshold: 0.1
+  });
+
+  sections.forEach(section => {
+    observer.observe(section);
+  });
+});
+</script>
 <section id="a-paradigm-shift-in-treatment" class="level2">
 <h2 class="anchored" data-anchor-id="a-paradigm-shift-in-treatment">A Paradigm Shift in Treatment</h2>
 <p>Our platform is engineered to deliver strong and specific efficacy with an exceptional safety profile, targeting a vast array of validated and novel drug targets in oncology, infectious diseases, and beyond.</p>
@@ -184,25 +229,10 @@ background-size: cover;
 <section id="oral-delivery-a-unique-mode-of-action" class="level2">
 <h2 class="anchored" data-anchor-id="oral-delivery-a-unique-mode-of-action">Oral Delivery &amp; A Unique Mode of Action</h2>
 <p>Our platform is a form of <strong>live-attenuated bacterial vector-based immunotherapy</strong> that utilizes the extensively validated Ty21a vector, which can be rapidly engineered to encode desired drug targets. After oral ingestion, the vector harnesses the power of the gut’s immune system, one of the most immunologically active regions in the body.</p>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="./img/salmonella-typhi.png" class="img-fluid figure-img"></p>
-<figcaption>Ty21a carrier</figcaption>
+<p><img src="./img/salmonella.svg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./img/plasmid_6714638.png" class="img-fluid figure-img"></p>
-<figcaption>DNA plasmid construct</figcaption>
-</figure>
-</div>
-</div>
-</div>
 </div>
 <p>Once taken up by lymphoid tissue in the gut, the vector instructs the patient’s immune system to produce target-specific CD4<sup>+</sup> helper and CD8<sup>+</sup> cytotoxic T-cells. This generates a powerful systemic T-cell response, capable of identifying and destroying target-expressing cells through the recognition of the antigen presented by HLA molecules.</p>
 </section>

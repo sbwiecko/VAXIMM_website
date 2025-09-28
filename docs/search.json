@@ -4,7 +4,7 @@
     "href": "technology.html",
     "title": "First-in-class oral immunotherapy platform",
     "section": "",
-    "text": "VAXIMM’s technology is based on first-in-class oral T-cell activators that can be readily adapted to target a wide range of antigens.\nThe platform is based on the live attenuated bacterial vaccine strain Ty21 (Vivotif™), which has been administered to millions of people as a prophylactic vaccine to temporarily protect them from typhoid fever. This strain has been proven to be very safe and well tolerated. All immunotherapies resulting from this platform are taken orally by the patient. (Andreas G. Niethammer et al. 2001; Andreas G. Niethammer et al. 2002)"
+    "text": "VAXIMM’s technology is based on first-in-class oral T-cell activators that can be readily adapted to target a wide range of antigens.\nThe platform is based on the live attenuated bacterial vaccine strain Ty21 (Vivotif™), which has been administered to millions of people as a prophylactic vaccine to temporarily protect them from typhoid fever. This strain has been proven to be very safe and well tolerated. All immunotherapies resulting from this platform are taken orally by the patient (Andreas G. Niethammer et al. 2001; Andreas G. Niethammer et al. 2002)."
   },
   {
     "objectID": "technology.html#unique-mechanism-of-action",
@@ -130,7 +130,7 @@
     "href": "index.html#oral-delivery-a-unique-mode-of-action",
     "title": "Redefining Immunotherapy",
     "section": "Oral Delivery & A Unique Mode of Action",
-    "text": "Oral Delivery & A Unique Mode of Action\nOur platform is a form of live-attenuated bacterial vector-based immunotherapy that utilizes the extensively validated Ty21a vector, which can be rapidly engineered to encode desired drug targets. After oral ingestion, the vector harnesses the power of the gut’s immune system, one of the most immunologically active regions in the body.\n\n\n\n\n\n\nTy21a carrier\n\n\n\n\n\n\n\nDNA plasmid construct\n\n\n\n\n\nOnce taken up by lymphoid tissue in the gut, the vector instructs the patient’s immune system to produce target-specific CD4+ helper and CD8+ cytotoxic T-cells. This generates a powerful systemic T-cell response, capable of identifying and destroying target-expressing cells through the recognition of the antigen presented by HLA molecules."
+    "text": "Oral Delivery & A Unique Mode of Action\nOur platform is a form of live-attenuated bacterial vector-based immunotherapy that utilizes the extensively validated Ty21a vector, which can be rapidly engineered to encode desired drug targets. After oral ingestion, the vector harnesses the power of the gut’s immune system, one of the most immunologically active regions in the body.\n\n\n\n\n\nOnce taken up by lymphoid tissue in the gut, the vector instructs the patient’s immune system to produce target-specific CD4+ helper and CD8+ cytotoxic T-cells. This generates a powerful systemic T-cell response, capable of identifying and destroying target-expressing cells through the recognition of the antigen presented by HLA molecules."
   },
   {
     "objectID": "index.html#platform-advantages-speed-versatility-a-clear-path",
