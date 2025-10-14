@@ -13,12 +13,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
       - text: "Technology"
         href: technology.qmd
       - text: "Pipeline"
         href: pipeline.qmd
+      - text: "About"
+        href: about.qmd
       - text: "News"
         href: news.qmd
   page-footer:

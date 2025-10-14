@@ -4,9 +4,9 @@ description: "VAXIMM is pioneering a new class of orally administered, T-cell ba
 title-block-banner: "./img/back0.jpg"
 ---
 
-## A Paradigm Shift in Treatment 
+## A Paradigm Shift in Immunotherapy 
 
-Our platform is engineered to deliver strong and specific efficacy with an exceptional safety profile, targeting a vast array of validated and novel drug targets in oncology, infectious diseases, and beyond.
+The VAXIMM T-cell immunotherapy platform is engineered to deliver strong and specific efficacy with an exceptional safety profile, targeting a vast array of validated and novel drug targets in oncology, infectious diseases, and beyond.
 
 Our approach combines the convenience of oral administration with the power of a targeted T-cell response, creating a therapy with clear advantages for patients and healthcare systems:
 
@@ -14,42 +14,26 @@ Our approach combines the convenience of oral administration with the power of a
 - **Outstanding Safety and Precision** -- Clinical data from multiple Phase I and II studies, including in fragile cancer patient populations, have demonstrated that VAXIMM therapies are exceptionally well-tolerated. The T-cell-based mechanism ensures minimal to no collateral damage to healthy tissue.
 - **Unprecedented Patient Convenience** -- An oral formulation replaces complex infusions, dramatically improving patient compliance and quality of life while reducing treatment-associated costs for the healthcare system.
 
-### Expert Leadership Driving Innovation
-
-Our platform was created by inventor Andreas Niethammer, MD, PhD, who continues to be a central part of our development team. Alongside a world-class group of onco-immunology and drug development specialists, he helps drive our mission to revolutionize patient therapy.
-
-::: {.text-center .mt-4}
-[Learn more about us](about.qmd){.btn .btn-outline-primary}
-:::
-
-## Oral Delivery & A Unique Mode of Action
-
-Our platform is a form of **live-attenuated bacterial vector-based immunotherapy** that utilizes the extensively validated Ty21a vector, which can be rapidly engineered to encode desired drug targets. After oral ingestion, the vector harnesses the power of the gut's immune system, one of the most immunologically active regions in the body.
-
-![](./img/salmonella.svg){width=50% fig-align="center"}
-
-Once taken up by lymphoid tissue in the gut, the vector instructs the patient's immune system to produce target-specific CD4<sup>+</sup> helper and CD8<sup>+</sup> cytotoxic T-cells. This generates a powerful systemic T-cell response, capable of identifying and destroying target-expressing cells through the recognition of the antigen presented by HLA molecules.
-
-## Platform Advantages: Speed, Versatility & A Clear Path
-
-The VAXIMM technology platform is built to accelerate the development of novel immunotherapie:
-
-- **High Versatility** -- The platform allows for the rapid engineering of our vector to express a vast array of different target antigens, singly or in combination.
-- **Rapid, Cost-Effective Production** -- We benefit from short production timelines and low production costs, streamlining the path from candidate design to clinical supply.
-- **A De-Risked Regulatory Path** -- The decades-long clinical experience with the Ty21a vector provides a well-established safety and manufacturing profile, enabling rapid clinical development and a clear regulatory path.
-
 ::: {.text-center .mt-4}
 [Learn more about VAXIMM technology](technology.qmd){.btn .btn-outline-primary}
 :::
 
 ## Pipeline
 
-**VXM01**, our Phase II clinical candidate, is engineered to elicit a specific immune response against VEGFR-2, a growth factor receptor important for the formation of new blood vessels, and for the formation of tumor-supporting neovasculature. Unlike other approaches to VEGF/VEGFR inhibition, the VXM01 mechanism of action is based entirely on harnessing the immune system against the target, and destroys cells expressing the target receptor. This appoach significantly reduces the possibility of resistance development, and may be advantageous in the full suppression of the neoangiogenesis mechanism.
+**VXM01**, our Phase II clinical candidate, is engineered to elicit a specific T-cell immune response against VEGFR-2, a growth factor receptor important for the formation of new blood vessels, and for the formation of tumor-supporting neovasculature. Unlike other approaches to VEGF/VEGFR inhibition, the VXM01 mechanism of action is based entirely on harnessing the immune system against the target, and destroys cells expressing the target receptor. This appoach significantly reduces the possibility of resistance development, and may be advantageous in the full suppression of the neoangiogenesis mechanism.
 
 Prior to initiating clinical development, VXM01 showed significant anti-VEGFR-2, anti-neoangiogenesis and anti-tumour activity in a number of preclinical models. VXM01 has completed a Phase I/II combination trial in advanced **glioblastoma (GBM)** in combination with a PD-L1 inhibitor, and was previously evaluated in Phase I studies in **pancreatic cancer and GBM**.
 
 ::: {.text-center .mt-4}
 [Learn more about our pipeline](pipeline.qmd){.btn .btn-outline-primary}
+:::
+
+## Expert Leadership Driving Innovation
+
+Our platform was created by inventor Andreas Niethammer, MD, PhD, who continues to be a central part of our development team. Alongside a world-class group of onco-immunology and drug development specialists, he helps drive our mission to revolutionize patient therapy.
+
+::: {.text-center .mt-4}
+[Learn more about us](about.qmd){.btn .btn-outline-primary}
 :::
 
 ## Latest news
