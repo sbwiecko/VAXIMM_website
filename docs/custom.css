@@ -44,3 +44,11 @@ main section.level2.is-visible {
 .accordion-header .anchorjs-link {
   display: none !important;
 }
+
+/* Remove background color and border from active accordion button */
+.accordion-button:not(.collapsed) {
+  background-color: transparent;
+  box-shadow: none;
+  color: inherit;
+  border: none;
+}

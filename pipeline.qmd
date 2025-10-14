@@ -152,7 +152,7 @@ VXM10 is a T-cell immunotherapy targeting programmed death-ligand 1 (PD-L1). PD-
 
 :::
 
-## References
+### References
 
 ::: {#refs}
 :::

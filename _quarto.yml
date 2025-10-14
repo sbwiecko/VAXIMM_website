@@ -23,7 +23,7 @@ website:
         href: news.qmd
   page-footer:
     left:
-      - text: "<i class=\"bi bi-geo-alt\"></i> VAXIMM AG<br>Hochbergerstrasse 60c, CH-4057 Basel, Switzerland"
+      - text: "<em>VAXIMM AG</em><br><i class=\"bi bi-geo-alt\"></i> Hochbergerstrasse 60c, CH-4057 Basel, Switzerland"
     right:
       - text: "<i class=\"bi bi-telephone\"></i> +41 41 725 08 00<br><i class=\"bi bi-envelope\"></i> <a href='mailto:group@osr-holdings.com'>group@osr-holdings.com</a>"
   announcement: 
