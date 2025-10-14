@@ -1,15 +1,31 @@
-## OSR Holdings Appoints Dr. Andreas Niethammer as Chief Medical Officer of Vaximm AG, an OSR Company
+::: {.grid}
 
-BASEL, Switzerland and SEOUL, South Korea, July 15, 2025 /PRNewswire/ -- OSR Holdings, Inc. (NASDAQ: OSRH), a global healthcare company dedicated to advancing healthcare outcomes and improving the quality of life for people and their families, today announced the appointment of Dr Andreas Niethammer, M.D., Ph.D., as Chief Medical Officer of Vaximm AG, an OSR Company developing a platform of orally administered target-specific T-cell activators, including VXM01, a clinical stage anti-VEGFR-2.
-
-::: {.text-center .mt-4}
-[Read more](https://osr-holdings.com/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=166816633&t=board){.btn .btn-outline-primary}
+::: {.g-col-4}
+![](./img/dna.png){fig-alt="DNA strand" .img-fluid}
 :::
 
-## [PR Newswire]Vaximm AG, an OSR Company, Announces Results from Phase 2a Trial of VXM01 and Avelumab Combination Therapy in Glioblastoma
+::: {.g-col-8}
+### OSR Holdings Appoints Dr. Andreas Niethammer as Chief Medical Officer of Vaximm AG, an OSR Company {.mt-0}
 
-BASEL, Switzerland, March 26, 2025 /PRNewswire/ -- Vaximm AG, a subsidiary of OSR Holdings, Inc. and a pioneering biotechnology company focused on developing innovative immunotherapies, today announced final data from the successful conclusion of its open-label Phase 2a clinical trial assessing the safety and tolerability of VXM01, an investigational oral anti-VEGFR-2 vaccine, in combination with avelumab (PD-L1 inhibitor) in patients with recurrent glioblastoma (GBM). The trial was part of a collaboration with Merck KGaA, Darmstadt, Germany.
+OSR Holdings, Inc. (NASDAQ: OSRH) announced the appointment of Dr Andreas Niethammer, M.D., Ph.D., as Chief Medical Officer of Vaximm AG, an OSR Company developing a platform of orally administered target-specific T-cell activators, including VXM01, a clinical stage anti-VEGFR-2.
 
-::: {.text-center .mt-4}
+::: {.text-center}
+[Read more](https://osr-holdings.com/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=166816633&t=board){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.g-col-4}
+![](./img/newswire.png){fig-alt="PR Newswire logo" .img-fluid}
+:::
+
+::: {.g-col-8}
+### Vaximm AG, an OSR Company, Announces Results from Phase 2a Trial of VXM01 and Avelumab Combination Therapy in Glioblastoma {.mt-0}
+
+Vaximm AG, a subsidiary of OSR Holdings, Inc., announced final data from the successful conclusion of its open-label Phase 2a clinical trial assessing the safety and tolerability of VXM01 in combination with PD-L1 inhibitor in patients with recurrent glioblastoma.
+
+::: {.text-center}
 [Read more](https://osr-holdings.com/news/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mjt9&bmode=view&idx=159644069&t=board){.btn .btn-outline-primary}
+:::
+:::
+
 :::
