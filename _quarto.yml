@@ -35,7 +35,8 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: minty
+    citations-hover: false
     css: custom.css
     include-in-header:
       - text: |

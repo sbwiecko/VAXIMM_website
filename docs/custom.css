@@ -3,6 +3,15 @@
   display: inline-block;
 }
 
+.nav-footer-left {
+    text-align: left;
+}
+
+.nav-footer-right {
+    text-align: right;
+}
+
+
 /* Target the letter spans inside the title for the animation */
 #title-block-header h1.title .word span {
   display: inline-block;
@@ -29,4 +38,9 @@ main section.level2 {
 main section.level2.is-visible {
   opacity: 1;
   transform: translateY(0);
+}
+
+/* Hide anchor links inside accordion headers */
+.accordion-header .anchorjs-link {
+  display: none !important;
 }

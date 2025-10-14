@@ -48,40 +48,6 @@ The VAXIMM technology platform is built to accelerate the development of novel i
 
 Prior to initiating clinical development, VXM01 showed significant anti-VEGFR-2, anti-neoangiogenesis and anti-tumour activity in a number of preclinical models. VXM01 has completed a Phase I/II combination trial in advanced **glioblastoma (GBM)** in combination with a PD-L1 inhibitor, and was previously evaluated in Phase I studies in **pancreatic cancer and GBM**.
 
-```{=html}
-<div class="container py-5">
-        <div class="text-center mb-4">
-        <h3 class="mb-0">Our Clinical Progress</h3>
-    </div>
-    <div class="p-4"> 
-        <div class="mb-4">
-            <p class="fw-bold text-start mb-2">VXM01 - Pancreatic Cancer</p>
-            <div class="progress" role="progressbar" aria-label="Phase I progress" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-                <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">
-                    Phase I
-                </div>
-            </div>
-        </div>
-        <div class="mb-4">
-            <p class="fw-bold text-start mb-2">VXM01 - Glioblastoma</p>
-            <div class="progress" role="progressbar" aria-label="Phase I progress" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-                <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">
-                    Phase I
-                </div>
-            </div>
-        </div>
-        <div class="mb-4">
-            <p class="fw-bold text-start mb-2">VXM01 - Glioblastoma + Avelumab</p>
-            <div class="progress" role="progressbar" aria-label="Phase I/II progress" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-                <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 50%;">
-                    Phase I/II
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-```
-
 ::: {.text-center .mt-4}
 [Learn more about our pipeline](pipeline.qmd){.btn .btn-outline-primary}
 :::
