@@ -3,11 +3,13 @@ title: "A First-in-Class Oral Immunotherapy"
 title-block-banner: "./img/back2.jpg"
 ---
 
-<div class="intro-block">
-VAXIMM's technology uses a live, attenuated bacterial strain, Ty21a, which is genetically modified using a plasmid to carry the genetic code (cDNA) for specific target antigens, such as those found on cancer cells. This engineered strain, originally known as Vivotif™, serves as a highly effective delivery vector and has an extensive safety record from its use as an oral vaccine against typhoid fever in millions of people.
+## A Proven Platform for Safe, Oral Immunotherapy
 
-![](./img/salmonella.svg){width=50% fig-align="center"}
-</div>
+VAXIMM's technology uses a live, attenuated bacterial strain, Ty21a, which is genetically modified using a plasmid to carry the genetic code (cDNA) for specific target antigens, such as those found on cancer cells. 
+
+![](./img/bacterium.png){width=60% fig-align="center"}
+
+This engineered strain, originally known as Vivotif™, serves as a highly effective delivery vector and has an extensive safety record from its use as an oral vaccine against typhoid fever in millions of people.
 
 ## Unique Mechanism of Action
 
