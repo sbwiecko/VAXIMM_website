@@ -18,7 +18,7 @@ website:
         href: technology.qmd
       - text: "Pipeline"
         href: pipeline.qmd
-      - text: "About"
+      - text: "About Us"
         href: about.qmd
       - text: "News"
         href: news.qmd
