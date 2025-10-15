@@ -9,6 +9,7 @@ bibliography: vaximm.bib
 website:
   navbar:
     # background: dark
+    logo: ./img/VAXIMM_logo_reverse.svg
     search: true
     left:
       - text: "Home"
@@ -35,7 +36,7 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: sandstone
     citations-hover: false
     css: custom.css
     include-in-header:

@@ -1,47 +1,59 @@
----
-title: "Redefining Immunotherapy"
-description: "VAXIMM is pioneering a new class of orally administered, T-cell based immunotherapies"
-title-block-banner: "./img/back0.jpg"
----
 
-## A Paradigm Shift in Immunotherapy 
-
-The VAXIMM T-cell immunotherapy platform is engineered to deliver strong and specific efficacy with an exceptional safety profile, targeting a vast array of validated and novel drug targets in oncology, infectious diseases, and beyond.
-
-Our approach combines the convenience of oral administration with the power of a targeted T-cell response, creating a therapy with clear advantages for patients and healthcare systems:
-
-- **Potent and Lasting Efficacy** -- Our technology is inherently self-adjuvanting, generating robust and highly specific T-cell responses designed for the durable elimination of target cells. By harnessing the patient's own immune system, we create a long-lasting therapeutic effect with a low risk of resistance development.
-- **Outstanding Safety and Precision** -- Clinical data from multiple Phase I and II studies, including in fragile cancer patient populations, have demonstrated that VAXIMM therapies are exceptionally well-tolerated. The T-cell-based mechanism ensures minimal to no collateral damage to healthy tissue.
-- **Unprecedented Patient Convenience** -- An oral formulation replaces complex infusions, dramatically improving patient compliance and quality of life while reducing treatment-associated costs for the healthcare system.
-
-::: {.text-center .mt-4}
-[Learn more about VAXIMM technology](technology.qmd){.btn .btn-outline-primary}
+::: {.hero-section .column-screen}
+```{=html}
+  <div class="hero-text">
+    <h2>A Paradigm Shift in Immunotherapy</h2>
+    <h5>Our approach combines the convenience of oral administration with the power of a targeted T-cell response, creating a therapy with clear advantages for patients and healthcare systems.</h5>
+    <a href="technology.qmd" class="btn btn-primary btn-lg mt-4">MORE</a>
+  </div>
+```
 :::
 
-## Pipeline
+::: {.content-section .section-pioneering .column-screen}
+<div class="container">
+## Pioneering a New Class of Immunotherapies
 
-**VXM01**, our Phase II clinical candidate, is engineered to elicit a specific T-cell immune response against VEGFR-2, a growth factor receptor important for the formation of new blood vessels, and for the formation of tumor-supporting neovasculature. Unlike other approaches to VEGF/VEGFR inhibition, the VXM01 mechanism of action is based entirely on harnessing the immune system against the target, and destroys cells expressing the target receptor. This appoach significantly reduces the possibility of resistance development, and may be advantageous in the full suppression of the neoangiogenesis mechanism.
-
-Prior to initiating clinical development, VXM01 showed significant anti-VEGFR-2, anti-neoangiogenesis and anti-tumour activity in a number of preclinical models. VXM01 has completed a Phase I/II combination trial in advanced **glioblastoma (GBM)** in combination with a PD-L1 inhibitor, and was previously evaluated in Phase I studies in **pancreatic cancer and GBM**.
-
-::: {.text-center .mt-4}
-[Learn more about our pipeline](pipeline.qmd){.btn .btn-outline-primary}
-:::
-
-## Expert Leadership Driving Innovation
-
-Our platform was created by inventor Andreas Niethammer, MD, PhD, who continues to be a central part of our development team. Alongside a world-class group of onco-immunology and drug development specialists, he helps drive our mission to revolutionize patient therapy.
+VAXIMM is revolutionizing immunotherapy with a first-in-class oral T-cell activation platform. Our approach delivers the potent, targeted efficacy of advanced biologics in the convenience of a drinkable oral formulation, combining an exceptional safety profile with the potential to address a multi-billion dollar market across oncology and infectious diseases.
 
 ::: {.text-center .mt-4}
-[Learn more about us](about.qmd){.btn .btn-outline-primary}
+[Learn more about VAXIMM technology](technology.qmd){.btn .btn-outline-light}
+:::
+</div>
 :::
 
+
+::: {.content-section .section-pipeline .column-screen}
+<div class="container">
+## A Pipeline Designed to Make an Impact
+
+Our clinical pipeline is led by **VXM01**, an oral T-cell immunotherapy that targets the tumor's blood supply. Having completed mid-stage trials in glioblastoma and early studies in pancreatic cancer, it spearheads our growing portfolio of four preclinical candidates.
+
+::: {.text-center .mt-4}
+[Learn more about our pipeline](pipeline.qmd){.btn .btn-outline-light}
+:::
+</div>
+:::
+
+::: {.content-section .section-leadership .column-screen}
+<div class="container">
+## Leadership with a Founder's Vision
+
+We combine pioneering science with proven execution. Our team is led by the platform's inventor, Dr. Andreas Niethammer, and backed by seasoned experts in drug development, giving us the unique ability to advance our mission of revolutionizing patient therapy.
+
+::: {.text-center .mt-4}
+[Learn more about us](about.qmd){.btn .btn-outline-light}
+:::
+</div>
+:::
+ 
+::: {.content-section .section-news .column-screen}
+<div class="container">
 ## Latest news
 
 Stay informed with our most recent press releases, publications, and the progress of our clinical programs.
 
 ```{=html}
-<div class="container py-5">
+<div class="py-5">
     <div class="row">
         <div class="col-md-8 col-lg-6 mx-auto"> <div class="card h-100 shadow-sm">
                 <div class="card-body d-flex flex-column">

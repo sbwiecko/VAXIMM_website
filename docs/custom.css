@@ -11,6 +11,57 @@
     text-align: right;
 }
 
+/* Hero Section Styling */
+.hero-section {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 70vh;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+  background-image: url('img/vaximm_bg.jpg');
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 3rem;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.hero-text {
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+.hero-text h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: white;
+  border-bottom: none;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.hero-text h5 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: white;
+  text-transform: none;
+  letter-spacing: normal;
+  opacity: 0.9;
+}
 
 /* Target the letter spans inside the title for the animation */
 #title-block-header h1.title .word span {
@@ -51,4 +102,74 @@ main section.level2.is-visible {
   box-shadow: none;
   color: inherit;
   border: none;
+}
+
+/* Intro block on technology page */
+.intro-block {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: var(--bs-light-bg-subtle);
+  border: 1px solid var(--bs-border-color-translucent);
+  border-radius: 0.5rem;
+  box-shadow: var(--bs-box-shadow-sm);
+}
+
+/* Content Section Styling */
+.content-section {
+  padding: 4rem 1rem;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.content-section h2 {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 1.5rem;
+}
+
+/* Sections with background images */
+.section-pioneering,
+.section-pipeline,
+.section-leadership {
+  color: white;
+}
+
+.section-pioneering::before,
+.section-pipeline::before,
+.section-leadership::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 0;
+}
+
+.section-pioneering .container,
+.section-pipeline .container,
+.section-leadership .container {
+  position: relative;
+  z-index: 1;
+}
+
+.section-pioneering h2,
+.section-pipeline h2,
+.section-leadership h2 {
+  color: white;
+}
+
+.section-pioneering { background-image: url('img/back1.jpg'); }
+.section-pipeline { background-image: url('img/back3.jpg'); }
+.section-leadership { background-image: url('img/back2.jpg'); }
+
+.section-news {
+  background-color: #ffffff;
+}
+
+.section-news .card-title a {
+  color: var(--bs-body-color) !important;
 }
