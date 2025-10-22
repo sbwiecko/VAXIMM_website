@@ -3,29 +3,29 @@ title: "A First-in-Class Oral Immunotherapy"
 title-block-banner: "./img/back2.jpg"
 ---
 
-## A Proven Platform for Safe, Oral Immunotherapy
-
-VAXIMM's technology uses a live, attenuated bacterial strain, Ty21a, which is genetically modified using a plasmid to carry the genetic code (cDNA) for specific target antigens, such as those found on cancer cells. 
-
-![](./img/bacterium.png){width=60% fig-align="center"}
-
-This engineered strain, originally known as Vivotif™, serves as a highly effective delivery vector and has an extensive safety record from its use as an oral vaccine against typhoid fever in millions of people.
-
 ## Unique Mechanism of Action
 
 The platform leverages the gut's powerful immune system through a unique process:
 
 1. **Oral Administration & Gastric Transit** -- The genetically modified Ty21a vector is administered orally.
-2. **Targeting of Gut-Associated Lymphoid Tissue (GALT)** -- The bacterial vector targets the Peyer's patches in the small intestine, where specialized cells transport it into the body's underlying immune tissue.
+2. **Targeting of Gut-Associated Lymphoid Tissue (GALT)** -- The eukaryotic vector targets the Peyer's patches in the small intestine, where specialized cells transport it into the body's underlying immune tissue.
 3. **Antigen Processing and Presentation** -- "In the gut's immune tissue, the vector is absorbed by Antigen-Presenting Cells (APCs). Inside, It releases a genetic payload that drives these cells to manufacture and present the specific target.
 4. **T-Cell Priming and Activation** -- This initiates an adaptive immune response, leading to the robust activation and clonal expansion of both antigen-specific CD8⁺ cytotoxic T lymphocytes and CD4⁺ helper T-cells.
 5. **Systemic Effector Response** -- The activated T-cells then enter systemic circulation, where they traffic throughout the body to locate and eliminate any malignant cells presenting the specific target antigen.
 
 ![](./img/VAXIMM_platform_MoA.png){.lightbox}
 
+## A Proven Platform for Safe, Oral Immunotherapy
+
+VAXIMM's technology uses an eukaryotic vector, which is genetically modified using a plasmid to carry the genetic code (cDNA) for specific target antigens, such as those found on cancer cells. 
+
+![](./img/salmonella.svg){width=60% fig-align="center"}
+
+This engineered strain, originally known as Vivotif™, serves as a highly effective delivery vector and has an extensive safety record from its use as an oral vaccine against typhoid fever in millions of people.
+
 ## Key Platform Advantages
 
-Our oral bacterial technology delivers treatment to the gut's lymphatic tissue, generating strong T-cell responses with low, safe doses suitable for continuous administration.
+Our oral technology delivers treatment to the gut's lymphatic tissue, generating strong T-cell responses with low, safe doses suitable for continuous administration.
 
 The platform is versatile, allowing for the targeting of multiple conditions with a single treatment, and can be combined with other immunotherapies. Its key advantages are:
 
@@ -33,7 +33,3 @@ The platform is versatile, allowing for the targeting of multiple conditions wit
 * **Continuous dosing** -- The low therapeutic doses required are suitable for continuous prime and boost administrations without raising anti-carrier immunity, adding a significant safety margin.
 * **Platform versatility** -- The platform is suitable for addressing multiple targets with a single treatment and can be easily combined with other immunotherapies.
 * **Rapid & efficient** -- Our approach features high modularity ('plug and play' capability), a low-cost and robust production process, and rapid development timelines from concept to the clinical stage.
-
-<div class="text-center">
-![](./img/competitive_analysis.png){.lightbox width="65%"}
-</div>

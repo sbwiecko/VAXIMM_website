@@ -1,9 +1,8 @@
-
 ::: {.hero-section .column-screen}
 ```{=html}
   <div class="hero-text">
-    <h2>A Paradigm Shift in Immunotherapy</h2>
-    <h5>Our approach combines the convenience of oral administration with the power of a targeted T-cell response, creating a therapy with clear advantages for patients and healthcare systems.</h5>
+    <h2>Unlocking the potential of the gut immune system through oral precision cytotoxic immunotherapies</h2>
+    <h5>Our approach combines the convenience of oral dosing with the power of a targeted T-cell response.</h5>
     <a href="technology.qmd" class="btn btn-primary btn-lg mt-4">MORE</a>
   </div>
 ```
@@ -11,9 +10,7 @@
 
 ::: {.content-section .section-pioneering .column-screen}
 <div class="container">
-## Pioneering a New Class of Immunotherapies
-
-VAXIMM is revolutionizing immunotherapy with a first-in-class oral T-cell activation platform. Our approach delivers the potent, targeted efficacy of advanced biologics in the convenience of a drinkable oral formulation, combining an exceptional safety profile with the potential to address a multi-billion dollar market across oncology and infectious diseases.
+## New Class of Cytotoxic Immunotherapies {.text-center}
 
 ::: {.text-center .mt-4}
 [Learn more about VAXIMM technology](technology.qmd){.btn .btn-outline-light}
@@ -21,12 +18,9 @@ VAXIMM is revolutionizing immunotherapy with a first-in-class oral T-cell activa
 </div>
 :::
 
-
 ::: {.content-section .section-pipeline .column-screen}
 <div class="container">
-## A Pipeline Designed to Make an Impact
-
-Our clinical pipeline is led by **VXM01**, an oral T-cell immunotherapy that targets the tumor's blood supply. Having completed mid-stage trials in glioblastoma and early studies in pancreatic cancer, it spearheads our growing portfolio of four preclinical candidates.
+## A Development Pipeline Designed to Address Validated Targets with Novel Immunotherapies {.text-center}
 
 ::: {.text-center .mt-4}
 [Learn more about our pipeline](pipeline.qmd){.btn .btn-outline-light}
@@ -36,45 +30,10 @@ Our clinical pipeline is led by **VXM01**, an oral T-cell immunotherapy that tar
 
 ::: {.content-section .section-leadership .column-screen}
 <div class="container">
-## Leadership with a Founder's Vision
-
-We combine pioneering science with proven execution. Our team is led by the platform's inventor, Dr. Andreas Niethammer, and backed by seasoned experts in drug development, giving us the unique ability to advance our mission of revolutionizing patient therapy.
+## Leadership with a Founder's Vision {.text-center}
 
 ::: {.text-center .mt-4}
 [Learn more about us](about.qmd){.btn .btn-outline-light}
 :::
 </div>
-:::
- 
-::: {.content-section .section-news .column-screen}
-<div class="container">
-## Latest news
-
-Stay informed with our most recent press releases, publications, and the progress of our clinical programs.
-
-```{=html}
-<div class="py-5">
-    <div class="row">
-        <div class="col-md-8 col-lg-6 mx-auto"> <div class="card h-100 shadow-sm">
-                <div class="card-body d-flex flex-column">
-                    <p class="text-body-secondary mb-2">March 26, 2025</p>
-                    <h5 class="card-title">
-                        <a href="#" class="text-dark text-decoration-none">
-                            Vaximm AG, an OSR Company, Announces Results from Phase 2a Trial of VXM01 and Avelumab Combination Therapy in Glioblastoma
-                        </a>
-                    </h5>
-                    <p class="card-text text-muted mt-3">
-                        Results from Phase 2a Trial demonstrate a good safety and tolerability profile of VXM01 and Avelumab Combination Therapy in Glioblastoma, supporting further investigation of VXM01...
-                    </p>
-                    <div class="mt-auto"></div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>
-```
-
-::: {.text-center .mt-4}
-[News](news.qmd){.btn .btn-outline-primary}
 :::

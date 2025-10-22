@@ -173,3 +173,19 @@ main section.level2.is-visible {
 .section-news .card-title a {
   color: var(--bs-body-color) !important;
 }
+
+/* Hides the accordion arrow */
+.accordion-button.non-collapsible::after {
+  display: none;
+}
+
+/* Prevents the blue box-shadow on click */
+.accordion-button.non-collapsible:focus {
+  box-shadow: none;
+  border-color: rgba(0,0,0,.125);
+}
+
+/* Optional: Keep the cursor as default */
+.accordion-button.non-collapsible {
+  cursor: default;
+}

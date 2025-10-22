@@ -103,7 +103,7 @@ Our foundational technology, an oral T-cell immunotherapy platform, was develope
     
     .timeline-content:hover {
         transform: translateY(-5px);
-        box-shadow: 0 8px 15px rgba(179, 176, 0, 0.1);
+        box-shadow: 0 8px 15px rgba(0, 131, 179, 0.1);
     }
 
     .timeline-content h3 {
@@ -211,7 +211,7 @@ Our foundational technology, an oral T-cell immunotherapy platform, was develope
 </style>
 
 <div class="container">
-    <h1>VAXIMM Journey</h1>
+    <h1>Company Milestones</h1>
     
     <div class="timeline">
         <div class="timeline-item">
@@ -219,6 +219,14 @@ Our foundational technology, an oral T-cell immunotherapy platform, was develope
                 <h3>2008 - Company Foundation</h3>
                 <div class="description">
                     <p>VAXIMM was founded as a spin-out from UC San Diego, based on Dr. Andreas Niethammer's pioneering research into oral T-cell immunotherapy, and joint venture of BB Biotech Ventures and Merck KGaA.</p>
+                </div>
+            </div>
+        </div>
+        <div class="timeline-item">
+            <div class="timeline-content" onclick="toggleDescription(this)">
+                <h3>2011 - First-in-Human Study for VXM01</h3>
+                <div class="description">
+                    <p>VAXIMM initiated its first clinical trial, a Phase I dose escalation study, for VXM01. The study enrolled pancreatic cancer patients at Heidelberg University Hospital to evaluate the vaccine's safety, tolerability, and immunogenicity.</p>
                 </div>
             </div>
         </div>
@@ -278,6 +286,7 @@ Our foundational technology, an oral T-cell immunotherapy platform, was develope
         text-transform: uppercase;
         font-size: 1.1rem;
         color: #333;
+        text-align: center;
     }
     .team-card .card-subtitle {
         text-transform: uppercase;
@@ -303,7 +312,7 @@ Our foundational technology, an oral T-cell immunotherapy platform, was develope
                         alt="Dr. Andreas Niethammer"
                         onerror="this.onerror=null;this.src='https://placehold.co/120x120/EFEFEF/AAAAAA?text=Image';">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title mt-3">Andreas Niethammer<br>MD, PhD</h5>
+                    <h5 class="card-title mt-3 text-center">Andreas Niethammer, MD, PhD</h5>
                     <h6 class="card-subtitle mb-3 text-muted">Chief Medical Officer</h6>
                     <p class="card-text text-secondary">
                         As the inventor of VAXIMM's core technology platform at UCSD, Dr. Niethammer provides foundational scientific leadership. He has extensive experience in clinical oncology and immunology and is responsible for guiding the company's clinical development strategy and execution.
@@ -319,15 +328,15 @@ Our foundational technology, an oral T-cell immunotherapy platform, was develope
         <!-- Card 2 -->
         <div class="col-12 col-md-6 col-lg-6">
             <div class="card text-center border-0 shadow-sm team-card h-100">
-                <img src="https://secondscight.com/static/images/profile-pic.png" 
+                <img src="https://media.licdn.com/dms/image/v2/D4D03AQGB90T0Kskf3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726660412965?e=1762992000&v=beta&t=NL14nIc0TzxdBiu1Eiv6aIwWED6fqjdAExB8zqBvl-0" 
                         class="card-img-top rounded-circle" 
                         alt="Sébastien Wieckowski"
                         onerror="this.onerror=null;this.src='https://placehold.co/120x120/EFEFEF/AAAAAA?text=Image';">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title mt-3">Sébastien Wieckowski<br>PhD</h5>
+                    <h5 class="card-title mt-3 text-center">Sébastien Wieckowski, PhD</h5>
                     <h6 class="card-subtitle mb-3 text-muted">Senior Director Platform Optimization and Nonclinical Development</h6>
                     <p class="card-text text-secondary">
-                        Sébastien has 15 years experience in oncoimmunology and vaccine development. He joined VAXIMM in 2016 as Senior Scientist, where he was in charge of the preclinical development of the various assets. He notably developed the VAXIMM neoantigen platform, which was subsequently acquired by NEC.
+                        Dr. Wieckowski has 15 years experience in oncoimmunology and vaccine development. He joined VAXIMM in 2016 as Senior Scientist, where he was in charge of the preclinical development of the various assets.
                     </p>
                     <div class="mt-auto">
                         <a href="https://linkedin.com/in/sbwiecko" class="text-secondary mx-2 fs-4" aria-label="LinkedIn Profile">
@@ -342,9 +351,63 @@ Our foundational technology, an oral T-cell immunotherapy platform, was develope
 
 <!-- Bootstrap JS Bundle -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+```
 
+## Advisors
+
+```{=html}
+<div class="container-xl py-5">
+    <div class="row justify-content-center g-4">
+        <!-- Card 1 -->
+        <div class="col-12 col-md-6 col-lg-6">
+            <div class="card text-center border-0 shadow-sm team-card h-100">
+                <img src="https://cdn.imweb.me/thumbnail/20250306/1d5ed476437bb.jpeg" 
+                        class="card-img-top rounded-circle" 
+                        alt="Dr. Andreas Niethammer"
+                        onerror="this.onerror=null;this.src='https://placehold.co/120x120/EFEFEF/AAAAAA?text=Image';">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title mt-3 text-center">Constance Höfer, PhD</h5>
+                    <p class="card-text text-secondary">
+                        Dr. Höfer is a seasoned biopharma executive with a strong scientific foundation, holding a Ph.D. in Pharmacology from the University of Newcastle. Her career is marked by significant leadership roles, including serving as Global Program Head at both Merck Healthcare and Sandoz Biopharma. She also bring deep operational and development expertise from her time as COO of Priaxon AG and VP of Drug Development at Medigene AG.
+                    </p>
+                    <div class="mt-auto">
+                            <a href="https://www.linkedin.com/in/constance-hoefer/" class="text-secondary mx-2 fs-4" aria-label="LinkedIn Profile">
+                            <i class="bi bi-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Card 2 -->
+        <div class="col-12 col-md-6 col-lg-6">
+            <div class="card text-center border-0 shadow-sm team-card h-100">
+                <img src="https://cdn.imweb.me/thumbnail/20250311/272b019106a04.jpeg" 
+                        class="card-img-top rounded-circle" 
+                        alt="Sébastien Wieckowski"
+                        onerror="this.onerror=null;this.src='https://placehold.co/120x120/EFEFEF/AAAAAA?text=Image';">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title mt-3 text-center">Josh Pan, PhD</h5>
+                    <p class="card-text text-secondary">
+                        Dr. Pan provides a dual perspective in science and business, holding both a Ph.D. in Molecular and Cellular Biology and an MBA from the University of Washington. He possesses extensive experience in venture capital and corporate strategy, having served as Partner at Bellevue Capital Management, Chief Operating Officer at the W Fund, Chief Business Officer at Landmark BioVentures, and Vice President of Corporate Development and External Affairs at Athira Pharma.
+                    </p>
+                    <div class="mt-auto">
+                        <a href="https://www.linkedin.com/in/joshpan/" class="text-secondary mx-2 fs-4" aria-label="LinkedIn Profile">
+                            <i class="bi bi-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 ```
 
 ## OSR Holdings
 
 [**OSR Holdings, Inc.** (NASDAQ:OSRH)](https://osr-holdings.com/company) is a healthcare group that operates on a hub-and-spoke model. The company focuses on partnering with biopharmaceuticals that have innovative R&D platforms. OSR Holdings' current portfolio includes technologies in immuno-oncology, regenerative biologics, and medical devices. They leverage a global network across the US, Europe, and Korea to develop a wide range of healthcare solutions.
+
+## Careers
+
+We are always looking for passionate and talented individuals to help advance our mission. We welcome open applications from professionals with expertise in key areas such as **Regulatory Affairs**, **CMC** (Chemistry, Manufacturing, and Controls), clinical development, and other related fields.
+
+If you are interested in joining VAXIMM, please send your spontaneous application and CV to: <careers@vaximm.com>
