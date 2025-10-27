@@ -3,13 +3,13 @@ title: "Our Development Pipeline"
 title-block-banner: "./img/back3.jpg"
 ---
 
-## Advancing Novel Immunotherapy from Preclinical to Clinical Development
+## Advancing Novel Immunotherapies for Indications with High Unmet Needs
 
 VAXIMM's pipeline is built on our versatile oral T-cell immunotherapy platform designed to combat cancer through multiple mechanisms.
 
-Our lead candidate, **VXM01**, is an oral immunotherapy that activates T-cells against VEGFR2, a key protein in tumor vasculature. This process destroys the tumor's blood supply and increases the infiltration of immune cells, with broad anti-tumor activity observed in preclinical and clinical studies.
+Our lead clinical candidate, **VXM01**, is an oral immunotherapy that activates T-cells against VEGFR2, a key validated protein in the tumor vasculature. By activating this process with **VXM01**, tumor blood supply is abolished while enabling infiltration of immune cells with broad anti-tumor effects.
 
-Building on this validated approach, we are advancing a portfolio of preclinical assets targeting other critical cancer pathways. Together, these programs represent a deep and diversified strategy to address unmet needs in oncology.
+Building on this validated approach, we are advancing a pipeline programs targeting other critical and validated cancer pathways. Together, these programs represent a deep and diversified strategy to address unmet needs in oncology.
 
 ::: {.accordion .accordion-flush #pipelineAccordion}
 
@@ -19,7 +19,7 @@ Building on this validated approach, we are advancing a portfolio of preclinical
 <div class="w-100">
 <p class="fw-bold text-start mb-1">VXM01 - Glioblastoma + Avelumab</p>
 <div class="progress" role="progressbar" aria-label="Phase I/II progress" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-<div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 50%;">Preclinical -- Phase I/II Complete</div>
+<div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 50%;">Phase I/II Complete</div>
 </div>
 </div>
 </button>
@@ -42,7 +42,7 @@ Learn more about the study (NCT03750071) [here](https://www.clinicaltrials.gov/c
 <div class="w-100">
 <p class="fw-bold text-start mb-1">VXM01 - Glioblastoma</p>
 <div class="progress" role="progressbar" aria-label="Phase I progress" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-<div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">Preclinical -- Phase I Complete</div>
+<div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">Phase I Complete</div>
 </div>
 </div>
 </button>
@@ -64,7 +64,7 @@ Learn more about the study (NCT02718443) [here](https://www.clinicaltrials.gov/s
 <div class="w-100">
 <p class="fw-bold text-start mb-1">VXM01 - Pancreatic Cancer</p>
 <div class="progress" role="progressbar" aria-label="Phase I progress" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-<div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">Preclinical -- Phase I Complete</div>
+<div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 33%;">Phase I Complete</div>
 </div>
 </div>
 </button>
@@ -76,58 +76,6 @@ A Phase I trial in advanced pancreatic cancer showed that VXM01 was well tolerat
 The data have been published [@niethammer_double-blind_2012; @schmitz-winnenthal_anti-angiogenic_2015; @schmitz-winnenthal_phase_2018].
 :::
 :::
-:::
-
-::: {.accordion-item}
-<h2 class="accordion-header unanchored" id="headingVxm04">
-<button class="accordion-button non-collapsible py-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseVxm04" aria-expanded="false" aria-controls="collapseVxm04">
-<div class="w-100">
-<p class="fw-bold text-start mb-1">Undisclosed Target</p>
-<div class="progress" role="progressbar" aria-label="Preclinical progress" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-<div class="progress-bar progress-bar-striped progress-bar-animated bg-secondary" style="width: 15%;">Preclinical</div>
-</div>
-</div>
-</button>
-</h2>
-:::
-
-::: {.accordion-item}
-<h2 class="accordion-header unanchored" id="headingVxm06">
-<button class="accordion-button non-collapsible py-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseVxm06" aria-expanded="false" aria-controls="collapseVxm06">
-<div class="w-100">
-<p class="fw-bold text-start mb-1">Undisclosed Target</p>
-<div class="progress" role="progressbar" aria-label="Preclinical progress" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-<div class="progress-bar progress-bar-striped progress-bar-animated bg-secondary" style="width: 15%;">Preclinical</div>
-</div>
-</div>
-</button>
-</h2>
-:::
-
-::: {.accordion-item}
-<h2 class="accordion-header unanchored" id="headingVxm08">
-<button class="accordion-button non-collapsible py-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseVxm08" aria-expanded="false" aria-controls="collapseVxm08">
-<div class="w-100">
-<p class="fw-bold text-start mb-1">Undisclosed Target</p>
-<div class="progress" role="progressbar" aria-label="Preclinical progress" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-<div class="progress-bar progress-bar-striped progress-bar-animated bg-secondary" style="width: 15%;">Preclinical</div>
-</div>
-</div>
-</button>
-</h2>
-:::
-
-::: {.accordion-item}
-<h2 class="accordion-header unanchored" id="headingVxm10">
-<button class="accordion-button non-collapsible py-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseVxm10" aria-expanded="false" aria-controls="collapseVxm10">
-<div class="w-100">
-<p class="fw-bold text-start mb-1">Undisclosed Target</p>
-<div class="progress" role="progressbar" aria-label="Preclinical progress" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="height: 25px;">
-<div class="progress-bar progress-bar-striped progress-bar-animated bg-secondary" style="width: 15%;">Preclinical</div>
-</div>
-</div>
-</button>
-</h2>
 :::
 
 :::

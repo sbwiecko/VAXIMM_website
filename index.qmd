@@ -1,8 +1,8 @@
 ::: {.hero-section .column-screen}
 ```{=html}
   <div class="hero-text">
-    <h2>Unlocking the potential of the gut immune system through oral precision cytotoxic immunotherapies</h2>
-    <h5>Our approach combines the convenience of oral dosing with the power of a targeted T-cell response.</h5>
+    <h2>Leveraging the gut immune system to deliver precision cytotoxic immunotherapies</h2>
+    <h5>Our approach combines the convenience of oral administration with the power of a targeted T-cell response</h5>
     <a href="technology.qmd" class="btn btn-primary btn-lg mt-4">MORE</a>
   </div>
 ```
@@ -20,7 +20,7 @@
 
 ::: {.content-section .section-pipeline .column-screen}
 <div class="container">
-## A Development Pipeline Designed to Address Validated Targets with Novel Immunotherapies {.text-center}
+## Robust Development Pipeline to Address Clinically-Validated Targets with Novel Immunotherapies {.text-center}
 
 ::: {.text-center .mt-4}
 [Learn more about our pipeline](pipeline.qmd){.btn .btn-outline-light}
@@ -30,7 +30,7 @@
 
 ::: {.content-section .section-leadership .column-screen}
 <div class="container">
-## Leadership with a Founder's Vision {.text-center}
+## Corporate Vision and Mission Scientifically Grounded by Founding Leadership {.text-center}
 
 ::: {.text-center .mt-4}
 [Learn more about us](about.qmd){.btn .btn-outline-light}

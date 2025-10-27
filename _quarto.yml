@@ -30,7 +30,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Information** - This is a more complete version of the draft of the new VAXIMM website"
+    content: "**Information** - This is an almost complete draft version of the future VAXIMM website"
     type: primary
     position: below-navbar
 
