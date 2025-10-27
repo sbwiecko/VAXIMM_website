@@ -2,7 +2,7 @@
 ```{=html}
   <div class="hero-text">
     <h2>Leveraging the gut immune system to deliver precision cytotoxic immunotherapies</h2>
-    <h5>Our approach combines the convenience of oral administration with the power of a targeted T-cell response</h5>
+    <h5>Our approach combines the convenience of oral administration with the power of a targeted, systemic T-cell response</h5>
     <a href="technology.qmd" class="btn btn-primary btn-lg mt-4">MORE</a>
   </div>
 ```

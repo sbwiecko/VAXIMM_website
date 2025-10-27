@@ -11,11 +11,11 @@ VAXIMM's core technology uses a genetically modified eukaryotic vector as a carr
 
 This engineered eukaryotic vector (Ty21a), originally known as Vivotif™, serves as a highly effective delivery vector with an extensive safety profile as an approved oral vaccine against typhoid fever.
 
-Directed delivery via gut lymphatic tissue allows for strong and persistent T-cell responses with a demonstrable low-dose and safe profile suitable for continuous repeat administration. This novel technology platform is specific yet versatile, with the potential to target multiple conditions with a single oral vector. In addition, combination treatment regimens have been clinically assessed with several immunotherapies. Several key advantages of this technology platform are highlighted: 
+Priming and activating a systemic immune response via the Peyer's patches in the gut allows for strong and persistent T-cell responses with a clinically proven safety profile suitable for continuous repeat administration. The safety and capability to generate a directed T cell response has been proven in prior clinical trials.  This novel technology platform is specific yet versatile, with the potential to target multiple conditions with a single oral vector. In addition, combination treatment regimens have been clinically assessed with several immunotherapies. Several key advantages of this technology platform are highlighted: 
 
 
 - **Robust T-cell response** demonstrated against many different antigens in both pre-clinical animal models and in humans
-- **Safe low therapeutic doses** allow for continuous dosing regimens suitable for continuous prime and boost administrations without raising anti-carrier immunity and adding a significant safety margin
+- **Safe therapeutic doses** allow for continuous dosing regimens suitable for continuous prime and boost administrations without raising anti-carrier immunity and adding a significant safety margin
 - **Platform versatility** enables addressing multiple targets with a single treatment and can be easily combined with other immunotherapies
 - **Rapid & efficient** platform offers high modularity ('plug and play') capability, low-cost and robust production process, and rapid development timelines from concept to the clinical stage
 
