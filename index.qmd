@@ -1,10 +1,15 @@
 ::: {.hero-section .column-screen}
 ```{=html}
-  <div class="hero-text">
-    <h2>Leveraging the gut immune system to deliver precision cytotoxic immunotherapies</h2>
-    <h5>Our approach combines the convenience of oral administration with the power of a targeted, systemic T-cell response</h5>
-    <a href="technology.qmd" class="btn btn-primary btn-lg mt-4">MORE</a>
-  </div>
+<video class="hero-video-background" autoplay loop muted playsinline poster="img/vaximm_bg.jpg">
+  <source src="img/1012621217-hd_1.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+<div class="hero-text">
+  <h2>Leveraging the gut immune system to deliver precision cytotoxic immunotherapies</h2>
+  <h5>Our approach combines the convenience of oral administration with the power of a targeted, systemic T-cell response</h5>
+  <a href="technology.qmd" class="btn btn-primary btn-lg mt-4">MORE</a>
+</div>
 ```
 :::
 

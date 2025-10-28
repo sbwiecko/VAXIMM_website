@@ -22,10 +22,20 @@
   text-align: center;
   padding: 60px 20px;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
-  background-image: url('img/vaximm_bg.jpg');
+  /* background-image: url('img/vaximm_bg.jpg'); */
   background-size: cover;
   background-position: center;
   margin-bottom: 3rem;
+}
+
+.hero-video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  z-index: 1; /* Layer 1: The very bottom */
 }
 
 .hero-section::before {
@@ -36,13 +46,14 @@
   right: 0;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.4);
+  z-index: 2; /* Layer 2: The middle (overlay) */
 }
 
 .hero-text {
   max-width: 800px;
   margin: 0 auto;
   position: relative;
-  z-index: 2;
+  z-index: 3; /* Layer 3: The top (text) */
 }
 
 .hero-text h2 {
